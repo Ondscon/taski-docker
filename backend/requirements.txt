@@ -1,4 +1,6 @@
-Django==3.2.16
-djangorestframework==3.12.4
-django-cors-headers==3.13.0
-psycopg2-binary==2.9.3
+flake8==5.0.4
+flake8-isort==6.1.1
+isort==5.13.2
+mccabe==0.7.0
+pycodestyle==2.9.1
+pyflakes==2.5.0
